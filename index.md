@@ -13,3 +13,7 @@ If the documentation you are looking for is not listed here, please add it yours
 ## General KWARC
 
 - [KWARC YouTube Channel](https://www.youtube.com/channel/UCRPkETFF47ltO2R4Ijg7tkA)
+
+## LATIN2
+
+- [How to Build LATIN2](https://gl.mathhub.info/MMT/LATIN2/-/tree/devel#complete-rebuilding-for-elaborate-endusers-developers)
