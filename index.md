@@ -7,12 +7,13 @@ If the documentation you are looking for is not listed here, please add it yours
 ## MMT
 
 - The main documentation for all things MMT is found [here](https://uniformal.github.io/doc/).
-- There is also a [list of common errors](https://github.com/UniFormal/uniformal.github.io/wiki/Errors)
+- There is also a [list of common errors](https://github.com/UniFormal/uniformal.github.io/wiki/Errors) in the Wiki.
 - Details on the [IntelliJ-Plugin](https://uniformal.github.io/doc/applications/intellij/) and the [jEdit-Plugin](https://uniformal.github.io//doc/applications/jedit).
 
 ## General KWARC
 
 - [KWARC YouTube Channel](https://www.youtube.com/channel/UCRPkETFF47ltO2R4Ijg7tkA)
+- [FrameIt](https://uframeit.github.io/)
 
 ## LATIN2
 
