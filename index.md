@@ -13,7 +13,7 @@ If the documentation you are looking for is not listed here, please add it yours
 ## General KWARC
 
 - [KWARC YouTube Channel](https://www.youtube.com/channel/UCRPkETFF47ltO2R4Ijg7tkA)
-- [FrameIt](https://uframeit.github.io/)
+- [FrameIT](https://uframeit.github.io/)
 
 ## LATIN2
 
